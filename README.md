@@ -1,7 +1,12 @@
-<!-- hide -->
 # Hello World with Typescript
 
-> [Spanish version of this readme is available](./README.es.md).
+<!-- hide -->
+> By [@ehiber](https://github.com/ehiber) and contributors at [4Geeks Academy](https://4geeksacademy.com/)
+
+[![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
+[![twitter](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
+
+*Estas instrucciones estan disponibles en [espanol](./README.es.md).*
 <!-- endhide -->
 Start coding a TypeScript/HTML/CSS website in 30 seconds by opening this template using 4Geeks' [One-Click Coding](https://s.4geeks.com/start?repo=https://github.com/4GeeksAcademy/typescript-hello) or locally on your computer.
 
