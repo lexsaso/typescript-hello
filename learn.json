@@ -1,10 +1,10 @@
 {
   "autoPlay": false,
   "title": {
-    "en": "Hello World with Typescript",
-    "es": "Hola Mundo con Typescript"
+    "en": "Cinema Seat Manager in TypeScript",
+    "es": "Cinema Seat Manager en TypeScript"
   },
-  "slug": "typescript-hello",
+  "slug": "cinema-seat-manager-typescript",
   "description": {
     "en": "Starter template for Vite + TypeScript projects with Tailwind CSS v4 preconfigured.",
     "es": "Plantilla inicial para proyectos con Vite + TypeScript con Tailwind CSS v4 preconfigurado."

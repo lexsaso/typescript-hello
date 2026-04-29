@@ -1,9 +1,9 @@
 {
-  "name": "typescript-hello",
+  "name": "cinema-seat-manager-typescript",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Hello World with Typescript using Vite and Tailwind CSS",
+  "description": "Cinema Seat Manager en TypeScript using Vite and Tailwind CSS",
   "scripts": {
     "start": "vite",
     "dev": "vite",

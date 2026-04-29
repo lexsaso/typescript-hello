@@ -1,4 +1,4 @@
-# Hola Mundo con Typescript
+# Cinema Seat Manager en TypeScript
 
 <!-- hide -->
 > Por [@ehiber](https://github.com/ehiber) y contribuidores de [4Geeks Academy](https://4geeksacademy.com/)
